@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libft/includes/libft.h
+stddef.h
+-
+
+/home/kirill/school21/4_circle/push_swap/check_result.h
+libft.h
+/home/kirill/school21/4_circle/push_swap/libft.h
+
+/home/kirill/school21/4_circle/push_swap/executing_instructions.h
+libft.h
+/home/kirill/school21/4_circle/push_swap/libft.h
+
+/home/kirill/school21/4_circle/push_swap/fill_stack.h
+libft.h
+/home/kirill/school21/4_circle/push_swap/libft.h
+
+/home/kirill/school21/4_circle/push_swap/main.c
+libft.h
+/home/kirill/school21/4_circle/push_swap/libft.h
+stdlib.h
+-
+fill_stack.h
+/home/kirill/school21/4_circle/push_swap/fill_stack.h
+read_instruction.h
+/home/kirill/school21/4_circle/push_swap/read_instruction.h
+executing_instructions.h
+/home/kirill/school21/4_circle/push_swap/executing_instructions.h
+check_result.h
+/home/kirill/school21/4_circle/push_swap/check_result.h
+
+/home/kirill/school21/4_circle/push_swap/read_instruction.h
+libft.h
+/home/kirill/school21/4_circle/push_swap/libft.h
+
